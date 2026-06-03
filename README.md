@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-Gameplay programmer Junior. Mastery of Unity (C#) and Unreal Engine (C++ / Blueprint), I am looking for a first position to implement gameplay mechanics, debug and optimize as a team in a production environment.
+Gameplay programmer Junior. Mastery of Unity (C#) and Unreal Engine (C++ / Blueprint), passionate about GPE, AI behavior, save and optimized code.
 
 
 ## 🛠 Skills
